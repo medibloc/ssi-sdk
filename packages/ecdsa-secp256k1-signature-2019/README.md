@@ -16,11 +16,11 @@ See also related specs:
 ## Install
 
 ```
-npm i @bloomprotocol/ecdsa-secp256k1-signature-2019
+npm i @medibloc/ecdsa-secp256k1-signature-2019
 ```
 
 OR
 
 ```
-yarn add @bloomprotocol/ecdsa-secp256k1-signature-2019
+yarn add @medibloc/ecdsa-secp256k1-signature-2019
 ```
