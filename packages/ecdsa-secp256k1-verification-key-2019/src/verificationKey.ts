@@ -5,8 +5,7 @@ import * as secp256k1 from 'secp256k1'
 import randomBytes from 'randombytes'
 // @ts-expect-error: implicit type import; not a ts package
 import cryptoLd from 'crypto-ld'
-// @ts-expect-error: implicit type import; not a ts package
-import * as base58 from 'base58-universal'
+import base58 from "bs58";
 
 const SUITE_ID = 'EcdsaSecp256k1VerificationKey2019'
 

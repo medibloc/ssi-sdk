@@ -1,8 +1,7 @@
 import secp256k1 from 'secp256k1'
 // @ts-expect-error: implicit type import; not a ts package
 import keyto from '@trust/keyto'
-// @ts-expect-error: implicit type import; not a ts package
-import * as base58 from 'base58-universal'
+import base58 from "bs58";
 
 const compressedHexEncodedPublicKeyLength = 66
 

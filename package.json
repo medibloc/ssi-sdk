@@ -1,7 +1,7 @@
 {
   "name": "root",
   "private": true,
-  "author": "Bloom Team <team@bloom.co>",
+  "author": "MediBloc <dev@medibloc.org>",
   "license": "Apache-2.0",
   "scripts": {
     "bootstrap": "lerna bootstrap",
